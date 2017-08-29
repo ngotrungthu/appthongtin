@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">appthongtin</string>
+    <string name="Text_tieude">Phiếu thông tin</string>
+    <string name="hint_hoten"> Nhập Họ Và Tên</string>
+    <string name="hint_email">Nhập email</string>
+    <string name="hint_sdt">Nhập số điện thoại</string>
+    <string name="text_xacnhan">Xác nhận</string>
+
+</resources>

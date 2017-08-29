@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App info</string>
+    <string name="hint_email">Input email</string>
+    <string name="hint_hoten">Input full name</string>
+    <string name="hint_sdt">Input phone numer</string>
+    <string name="text_xacnhan">Confim</string>
+    <string name="Text_tieude">Information From</string>
+</resources>

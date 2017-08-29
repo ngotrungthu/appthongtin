@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menusetting"
+        android:icon="@android:drawable/ic_menu_send"
+        app:showAsAction="always"
+        android:title="setting" />
+    <item
+        android:id="@+id/menushare"
+
+        android:orderInCategory="1"
+        android:title="share" />
+    <group android:orderInCategory="2" />
+    <item
+        android:orderInCategory="3"
+        android:id="@+id/menuabout"
+        android:title="About"/>
+    <group android:orderInCategory="4" />
+    <item
+        android:orderInCategory="5"
+        android:id="@+id/menuexit"
+        android:title="Exit"/>
+
+
+</menu>
